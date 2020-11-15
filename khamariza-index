@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>My Portfolio</title>
+  </head>
+  <body class="mt-5">
+   
+
+<nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+  <div class="container">
+  <a class="navbar-brand" href="#">Khamariza Putri Ihshani</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#">About</a>
+      <a class="nav-item nav-link" href="#">Portfolio</a>
+      <a class="nav-item nav-link" href="#">Contact</a>
+    </div>
+  </div>
+  </div>
+</nav>
+
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container text-center">
+    <img src="img/Me.png" width="25%" class="img-thumbnail">
+    <h1 class="display-4">Khamariza Putri Ihshani</h1>
+    <p class="lead">Hallo.. Saya adalah Mahasiswa Politeknik Negeri Banyuwangi and This is my CV.</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row mb-4">
+    <div class="col text-center">
+      <h2>About</h2>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row justify-content-center mb-5">
+    <div class="col text-center">
+      
+    
+  <section>
+            <div class="sectionContent text-center table-4">
+                <table>
+                <tr>
+                    <td></td><td> Nama saya Khamariza Putri Ihshani atau bisa di panggil Riza. Saya adalah mahasiswa Politeknik Negeri Banyuwangi angkatan tahun 2020, dari prodi teknik informatika. Sebelum menjadi mahasiswa saya alumni MAN 1 Banyuwangi dan IPA menjadi jurusan pilahan saya. Alasan saya memilih teknik informatika karena saya ingin mengembangkan ilmu saya dalam bidang komputer dan pemrograman, dan politeknik negeri Banyuwangi menjadi tempat yang saya tuju untuk menimba ilmu. Semoga kelak ilmu saya dapat bermanfaat bagi masyarakat disekitar saya.</td>
+                </tr>  
+                </table>
+                
+            </div>
+            <div class="clear"></div>
+        </section>
+      </div>
+    </div>
+    </div>
+        
+      </div>
+    </div>
+
+<section id="portfolio" class="portfolio bg-light pb-4">
+<div class="container">
+  <div class="row mb-4 pt-4">
+    <div class="col text-center">
+      <h2>Portfolio</h2>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-md">
+            <div class="card mb-4">
+        <img class="card-img-top" src="img/thumbs/6.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">I learn new things like the picture above.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/1.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">I learn new things like the picture above.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">I learn new things like the picture above.</p>
+        </div>
+      </div>
+    </div>
+
+   <div class="row mb-4">
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/11.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">I like music books and silence.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/19.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">I like music books and silence.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/20.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">I like music books and silence.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+   <div class="row mb-4">
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/14.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">Mood booster during independent study
+.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/12.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">Mood booster during independent study.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md">
+            <div class="card">
+        <img class="card-img-top" src="img/thumbs/17.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">Mood booster during independent study.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<div class="container">
+  <div class="row mb-4">
+    <div class="col text-center">
+      <h2>Contact</h2>
+      <p>Alamat : Perum Palm Raya Blok C.12 Karangrejo, Banyuwangi</p>
+      <p>email : kamarizaputri@gmail.com</p>
+    </div>
+  </div>
+
+
+
+<footer class="bg-dark text-white">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center">
+        <p>Copyright 2020.Khamariza Putri Ihshani</p>
+      </div>
+    </div>
+  </div>
+
+</footer>
+
+
+
+
+
+
+  
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
